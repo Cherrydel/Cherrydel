@@ -1,0 +1,12 @@
+======================================================
+
+CHERRY_DEL TERMINAL system administration software for embedded systems.
+
+The system includes
+
+OS_DEL: The operating unit of the system. This module has a system for modules and the development of your models, as well as access to the Server in the system.DELL server
+management can be performed directly from your hardware. The special MY_SQL_DEL module allows you to use our databases. Soon we will allow you to create your databases and connect them to our system.
+
+GAMES_DEL: The game complex is designed for remote connection to popular games, for playing with friends. In the upcoming update, we will allow you to create your servers in a few clicks of the GAME: GTA-V
+
+======================================================
